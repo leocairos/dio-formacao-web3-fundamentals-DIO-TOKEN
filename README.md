@@ -14,6 +14,4 @@ Contract published on https://goerli.etherscan.io/address/0x017bb2e08ddcf2092b94
 
 ## License 📄
 
-Code released under the [MIT License](./LICENSE).
-
 Make by [Leonardo Cairo](https://www.linkedin.com/in/leocairos/)!
