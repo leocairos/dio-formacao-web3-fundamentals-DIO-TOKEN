@@ -13,7 +13,6 @@ Web3 Fundamentals Training Project Challenge - Creating a Token
 Contract published on https://goerli.etherscan.io/address/0x017bb2e08ddcf2092b94b9f2c5395911f6c43729
 
 ## License 📄
-<hr/>
 
 Code released under the [MIT License](./LICENSE).
 
